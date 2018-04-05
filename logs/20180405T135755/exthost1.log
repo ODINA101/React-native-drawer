@@ -1,0 +1,18 @@
+[2018-04-05 13:57:58.080] [exthost1] [info] extension host started
+[2018-04-05 13:57:58.118] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-04-05 13:57:58.118] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-04-05 13:57:58.249] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-04-05 13:57:58.249] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-04-05 13:57:58.474] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-04-05 13:57:58.474] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-04-05 13:57:58.500] [exthost1] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2018-04-05 13:57:58.500] [exthost1] [info] ExtensionService#loadCommonJSModule /home/odina/.vscode/extensions/PKief.material-icon-theme-3.2.6/out/src/extension
+[2018-04-05 13:57:58.570] [exthost1] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":true,"activationEvent":"*"}
+[2018-04-05 13:57:58.570] [exthost1] [info] ExtensionService#loadCommonJSModule /home/odina/.vscode/extensions/ms-vscode.cpptools-0.16.1/out/src/main
+[2018-04-05 13:57:58.883] [exthost1] [info] eager extensions activated
+[2018-04-05 13:57:58.904] [exthost1] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2018-04-05 13:57:58.904] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript/out/extension
+[2018-04-05 13:58:04.967] [exthost1] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2018-04-05 13:58:04.967] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/out/extension
+[2018-04-05 13:58:10.800] [exthost1] [info] ExtensionService#_doActivateExtension vscode.html {"startup":false,"activationEvent":"onLanguage:html"}
+[2018-04-05 13:58:10.800] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html/client/out/htmlMain

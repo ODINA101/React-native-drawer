@@ -1,0 +1,34 @@
+[2018-04-05 13:57:56.265] [sharedprocess] [info] main {"machineId":"b70922d0a38af20da569d0b6aa19ff3cbad8a653a66ab7be9bcd2aa38f291459"}
+[2018-04-05 13:57:56.339] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-05 13:57:56.390] [sharedprocess] [info] Deleted from disk Mikael.angular-beastcode-6.0.2
+[2018-04-05 13:57:56.409] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-05 13:57:57.139] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-05 13:57:57.144] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-05 13:57:57.187] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-05 13:57:59.188] [sharedprocess] [info] Installing extension: Angular-BeastCode
+[2018-04-05 13:58:00.321] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-05 13:58:02.185] [sharedprocess] [info] Downloaded extension: Angular-BeastCode
+[2018-04-05 13:58:02.498] [sharedprocess] [info] Extracted extension to /home/odina/.vscode/extensions/Mikael.angular-beastcode-6.0.6: Mikael.angular-beastcode-6.0.6
+[2018-04-05 13:58:02.504] [sharedprocess] [info] Updated metadata of the extension: Mikael.angular-beastcode-6.0.6
+[2018-04-05 13:58:02.505] [sharedprocess] [info] Extensions installed successfully: Mikael.angular-beastcode
+[2018-04-05 13:58:02.650] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-05 13:58:02.700] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-05 13:58:36.278] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-04-05 14:03:00.385] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-05 14:08:00.609] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-05 14:13:00.687] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-05 14:18:00.779] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-05 14:23:00.867] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-05 14:28:00.927] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-05 14:33:00.974] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-05 14:38:01.296] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-05 14:43:01.353] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-05 14:48:01.419] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-05 14:53:01.440] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-05 14:58:01.462] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-05 15:03:01.516] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-05 15:08:01.627] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-05 15:13:01.691] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-05 15:18:01.766] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-05 15:23:01.802] [sharedprocess] [info] Scanned user extensions: 8
+[2018-04-05 15:28:01.869] [sharedprocess] [info] Scanned user extensions: 8

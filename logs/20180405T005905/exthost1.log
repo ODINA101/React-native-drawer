@@ -1,0 +1,14 @@
+[2018-04-05 00:59:08.454] [exthost1] [info] extension host started
+[2018-04-05 00:59:08.499] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-04-05 00:59:08.500] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-04-05 00:59:08.702] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-04-05 00:59:08.702] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-04-05 00:59:08.971] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-04-05 00:59:08.971] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-04-05 00:59:09.001] [exthost1] [info] eager extensions activated
+[2018-04-05 00:59:09.008] [exthost1] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2018-04-05 00:59:09.008] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript/out/extension
+[2018-04-05 00:59:09.227] [exthost1] [info] ExtensionService#_doActivateExtension AndrewRazumovsky.vscode-styled-jsx-languageserver {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2018-04-05 00:59:09.227] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/AndrewRazumovsky.vscode-styled-jsx-languageserver-1.0.0/client/out/extension
+[2018-04-05 00:59:09.320] [exthost1] [info] ExtensionService#_doActivateExtension NuclleaR.vscode-extension-auto-import {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2018-04-05 00:59:09.320] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/NuclleaR.vscode-extension-auto-import-1.4.1/out/src/extension
